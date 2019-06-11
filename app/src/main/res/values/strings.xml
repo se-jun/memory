@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="activity_recording">동영상찍기</string>
+    <string name="activity_map">구글맵</string>
+</resources>
