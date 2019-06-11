@@ -147,7 +147,7 @@ public class MainActivity extends AppCompatActivity {
         intent.setType(android.provider.MediaStore.Images.Media.CONTENT_TYPE);
         startActivityForResult(intent, REQUEST_TAKE_IMG_ALBUM);
     }
-
+    //sdf
     private void getVideoAlbum(){
         Log.i("getAlbum", "Call");
         Intent intent = new Intent(Intent.ACTION_PICK);
